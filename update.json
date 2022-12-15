@@ -2,7 +2,7 @@
 	"latest": 48,
 	"version": "1.12.1 Release",
 	"updateurl":"https://raw.githubusercontent.com/TheMrThor/AScript/main/13_GG.luac",
-	"patch_load": false,
+	"patch_load": true,
 	"critical": false,
 	"changes": [
 		"Добавлен предпросмотр ответа в репорт при наведении курсора на нужную кнопку",
