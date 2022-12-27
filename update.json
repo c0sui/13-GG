@@ -71,7 +71,7 @@
 		"gps": 5,
 		"gps_vc": 3,
 		"questions": 2,
-		"server_cmd": 1,
+		"server_cmd": 2,
 		"admin_cmd": 2,
 		"vehicles": 4,
 		"skins": 1
