@@ -75,7 +75,7 @@
 		"server_cmd": 2,
 		"admin_cmd": 3,
 		"vehicles": 5,
-		"skins": 1
+		"skins": 2
 	},
 	"api_url": "https://api.13-GG.com/"
 }
