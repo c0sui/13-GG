@@ -1,5 +1,5 @@
 {
-	"version": 4,
+	"version": 5,
 	"list": [
 		[400, "Landstalker"],
 		[401, "Bravura"],
@@ -527,6 +527,30 @@
 		[16795, "Cabine"],
 		[16796, "PostCar"],
 		[16797, "Retlook,"],
-		[16798, "Freeway H"]
+		[16798, "Freeway H"],
+		[16892, "Mercedes-Benz G63 AMG Brabus"],
+		[16893, "Mercedes-Benz W223 S500 Brabus"],
+		[16894, "Ferrari 812 Superfast"],
+		[16895, "Bentayga V8 Mansory"],
+		[16896, "Mercedes-Benz G63 AMG Brabus"],
+		[16897, "Mercedes-Benz G63 AMG Mansory"],
+		[16898, "Mercedes-Benz GLS 2020"],
+		[16899, "Rolls-Royce Cullinan 2020"],
+		[16900, "Lamborghini Urus Mansory"],
+		[16903, "Christmas Car #1"],
+		[16904, "Christmas Car #2"],
+		[16920, "Сноуборд"],
+		[16951, "Chevrolet Corvette"],
+		[16952, "Porsche Carrera"],
+		[16953, "Scramjet"],
+		[16954, "Dodge Hellcat"],
+		[16955, "Ferrari F40"],
+		[16956, "Canis Freecrawler"],
+		[16957, "Chevrolet Tahoe"],
+		[16958, "Tampa GT"],
+		[16959, "Toyota Tundra"],
+		[16994, "Электросамокат #1"],
+		[16955, "Электросамокат #2"],
+		[16956, "Электросамокат #3"]
 	]
- }
+}
